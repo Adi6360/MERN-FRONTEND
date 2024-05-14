@@ -12,6 +12,6 @@ root.render(
     <>
       <App />
     </>
-  </Suspense>
+  </Suspense>,
 );
 
