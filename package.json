@@ -64,7 +64,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "homepage": https://frontend-client-i9gy.onrender.com",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
