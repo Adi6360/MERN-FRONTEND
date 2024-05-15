@@ -63,7 +63,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "homepage": "https://frontend-client.onrender.com",
+    "homepage": "https://frontend-client-v8up.onrender.com",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
