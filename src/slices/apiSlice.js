@@ -1,7 +1,7 @@
 import { fetchBaseQuery, createApi } from '@reduxjs/toolkit/query/react';
 
 const baseQuery = fetchBaseQuery({ 
-  baseUrl: 'https://backend-api.onrender.com' });
+  baseUrl: 'https://backend-api-vveg.onrender.com' });
 
 export const apiSlice = createApi({
   baseQuery,
